@@ -1,3 +1,27 @@
 {
-  "compile-hero.disable-compile-files-on-did-save-code": true
+  "git.ignoreLimitWarning": true,
+  "cSpell.words": [
+    "ESNEXT",
+    "camelcase",
+    "gobarber",
+    "gostack",
+    "gostack gobarber",
+    "middlewares",
+    "postgres",
+    "sourcemap",
+    "tslib",
+    "uuidv",
+    "varchar"
+  ],
+  "cSpell.ignoreWords": [
+    "camelcase",
+    "o",
+    "password",
+    "response",
+    "typeorm",
+    "user",
+    "user password",
+    "valida",
+    "validação"
+  ]
 }
