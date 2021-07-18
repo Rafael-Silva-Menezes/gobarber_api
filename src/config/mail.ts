@@ -15,7 +15,7 @@ export default {
   defaults: {
     from: {
       email: 'contato@acervogeek.com.br',
-      name: 'Arthur Pedroti',
+      name: 'Rafael Silva',
     },
   },
 } as IMailConfig;
